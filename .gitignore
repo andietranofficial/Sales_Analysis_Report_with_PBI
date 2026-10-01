@@ -1,0 +1,22 @@
+# Power BI project (PBIP) local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Office / Power BI temp and lock files
+~$*
+*.tmp
+
+# Archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Resources
+dashboard-insights.md
